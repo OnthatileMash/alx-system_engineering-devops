@@ -1,2 +1,1 @@
-#!/bin/bash
-echo Shell, basics Tasks
+echo "Shell Tasks"
